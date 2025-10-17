@@ -55,11 +55,11 @@ https://github.com/NadiaS80/calculator_portfolio
 
 # ⚙️ My Plans
 
-``project_name``  
-⌛ (loading...)
+``weather_tg_bot``  
+⌛ add forecast for tomorrow, 3 days and a week  
 
-``another_project``  
-⌛ (loading...)
+``arduino_push_blink``  
+⌛ calibrate LED response for instant on/off  
 
-``future_idea``  
-⌛ (loading...)
+``smart_parking_radar``
+⌛ ultrasonic distance gauge with RGB LED + buzzer (optional LCD); tune distance thresholds and beep rate
