@@ -59,7 +59,7 @@ https://github.com/NadiaS80/calculator_portfolio
 ⌛ add forecast for tomorrow, 3 days and a week  
 
 ``arduino_push_blink``  
-⌛ calibrate LED response for instant on/off  
+✅ calibrate LED response for instant on/off  
 
-``smart_parking_radar``
+``smart_parking_radar`` 
 ⌛ ultrasonic distance gauge with RGB LED + buzzer (optional LCD); tune distance thresholds and beep rate
